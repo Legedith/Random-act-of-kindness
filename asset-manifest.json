@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Random-act-of-kindness/static/css/main.9acf2fd0.chunk.css",
+    "main.css": "/Random-act-of-kindness/static/css/main.cc55ba34.chunk.css",
     "main.js": "/Random-act-of-kindness/static/js/main.1a5e4adb.chunk.js",
     "main.js.map": "/Random-act-of-kindness/static/js/main.1a5e4adb.chunk.js.map",
     "runtime-main.js": "/Random-act-of-kindness/static/js/runtime-main.a1469f3d.js",
@@ -8,9 +8,9 @@
     "static/js/2.b745eab0.chunk.js": "/Random-act-of-kindness/static/js/2.b745eab0.chunk.js",
     "static/js/2.b745eab0.chunk.js.map": "/Random-act-of-kindness/static/js/2.b745eab0.chunk.js.map",
     "index.html": "/Random-act-of-kindness/index.html",
-    "precache-manifest.05305f3e7a0cd69de92c2647e5769f1c.js": "/Random-act-of-kindness/precache-manifest.05305f3e7a0cd69de92c2647e5769f1c.js",
+    "precache-manifest.336e4e49764878bf82ad73f7fc8d0e5b.js": "/Random-act-of-kindness/precache-manifest.336e4e49764878bf82ad73f7fc8d0e5b.js",
     "service-worker.js": "/Random-act-of-kindness/service-worker.js",
-    "static/css/main.9acf2fd0.chunk.css.map": "/Random-act-of-kindness/static/css/main.9acf2fd0.chunk.css.map",
+    "static/css/main.cc55ba34.chunk.css.map": "/Random-act-of-kindness/static/css/main.cc55ba34.chunk.css.map",
     "static/js/2.b745eab0.chunk.js.LICENSE.txt": "/Random-act-of-kindness/static/js/2.b745eab0.chunk.js.LICENSE.txt",
     "static/media/tumblr.svg": "/Random-act-of-kindness/static/media/tumblr.f6dd574d.svg",
     "static/media/twitter.svg": "/Random-act-of-kindness/static/media/twitter.642901af.svg"
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.a1469f3d.js",
     "static/js/2.b745eab0.chunk.js",
-    "static/css/main.9acf2fd0.chunk.css",
+    "static/css/main.cc55ba34.chunk.css",
     "static/js/main.1a5e4adb.chunk.js"
   ]
 }
