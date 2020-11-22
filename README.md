@@ -1,5 +1,6 @@
+https://legedith.github.io/Random-act-of-kindness/
 
-To install the package you need to tyiping
+To install the package
 ### `npm install`
 
 To run the app
