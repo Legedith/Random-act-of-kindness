@@ -8,7 +8,9 @@
 
 body {
   font-family: 'Nunito', sans-serif;
-  background: #0059ff;
+  background-image:url("https://img4.goodfon.com/wallpaper/nbig/c/31/kholmy-igra-art-gory-firewatch-campo-santo-les-peizazh-poz-2.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 #quote-box {
