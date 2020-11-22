@@ -12,15 +12,15 @@ const Quotes = () => {
   }, []);
 
   const getQuote = () => {
-    let url = `https://gist.githubusercontent.com/camperbot/5a022b72e96c4c9585c32bf6a75f62d9/raw/e3c6895ce42069f0ee7e991229064f167fe8ccdc/quotes.json`;
+    let url = `https://gist.githubusercontent.com/Legedith/f781f80d06960fdf9d516c776bae8824/raw/350a7c76c01a3652d2b112b70a28fd33930d9723/kindness.json`;
     fetch(url)
       .then(res => res.json())
       .then(data => {
-        let dataQuotes = data.quotes;
+        let dataQuotes = data.kindness;
         let randomNum = Math.floor(Math.random() * dataQuotes.length);
         let randomQuote = dataQuotes[randomNum];
 
-        setQuote(randomQuote.quote);
+        setQuote(randomQuote.kind);
         setAuthor(randomQuote.author);
       })
   }
@@ -43,7 +43,7 @@ const Quotes = () => {
             <span><img src={tumblrIcon} alt="" /></span>
           </a>
         </div>
-        <button onClick={handleClick} id="new-quote">New Quote</button>
+        <button onClick={handleClick} id="new-quote">New Act of Kindness</button>
       </div>
     </div>
   )
